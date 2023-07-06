@@ -1,0 +1,2 @@
+Installed chaincodes on peer:
+Package ID: dns_1:239b7fc3f7024b4554aa86847f41f60cafae3da2e4cdbfcbb81de6dae3a95963, Label: dns_1
